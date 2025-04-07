@@ -67,13 +67,13 @@ Reg.no : 212222110042
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
+
 
 ![](./images/kali1.png)
 
@@ -81,21 +81,21 @@ Reg.no : 212222110042
 
 ### **Autopsy**
 
-![](./images/autopsy.png)
+![autopsy](https://github.com/user-attachments/assets/9cbc719b-097f-4641-a89e-441d8fc568b4)
 
 ---
 
 ### **Sleuth Kit**
+![s1](https://github.com/user-attachments/assets/2b5fb817-5022-433a-8c4d-77a0801bc531)
+![s2](https://github.com/user-attachments/assets/921c5547-775e-4051-beb7-5afd47a4c782)
 
-![](./images/s1.png)
 
-![](./images/s2.png)
 
 ---
 
 ### **Creation of Virtual Hard Disk**
 
-![](./images/disk.png)
+![disk](https://github.com/user-attachments/assets/ad24bcfb-71d6-4e0d-b7bb-57d622f7f253)
 
 ---
 
