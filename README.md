@@ -90,7 +90,6 @@ Reg.no : 2122221110042
 ![](./images/s1.png)
 
 ![](./images/s2.png)
-
 ---
 
 ### **Creation of Virtual Hard Disk**
